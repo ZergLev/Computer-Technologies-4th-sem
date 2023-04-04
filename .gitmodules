@@ -1,0 +1,3 @@
+[submodule "5.7/cpp-lib-template"]
+	path = 5.7/cpp-lib-template
+	url = https://github.com/pananton/cpp-lib-template
