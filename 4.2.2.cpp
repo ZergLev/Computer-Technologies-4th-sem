@@ -7,13 +7,7 @@
 #include <map>
 
 using namespace std;
-/*
-template <typename T, typename U>
-ostream& operator<<(ostream& stream, const pair<T, U>& pair){
-  stream << pair.first << " " << pair.second;
-  return stream;
-}
-*/
+
 template <typename T>
 ostream& operator<<(ostream& stream, const vector<T>& vector){
 	int size = vector.size();

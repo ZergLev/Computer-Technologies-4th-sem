@@ -1,0 +1,6 @@
+/home/sergey/Computer-Technology-4th-sem/5.7/build/CMakeFiles/rebuild_cache.dir
+/home/sergey/Computer-Technology-4th-sem/5.7/build/CMakeFiles/edit_cache.dir
+/home/sergey/Computer-Technology-4th-sem/5.7/build/CMakeFiles/main.dir
+/home/sergey/Computer-Technology-4th-sem/5.7/build/cpp-lib-template/CMakeFiles/edit_cache.dir
+/home/sergey/Computer-Technology-4th-sem/5.7/build/cpp-lib-template/CMakeFiles/rebuild_cache.dir
+/home/sergey/Computer-Technology-4th-sem/5.7/build/cpp-lib-template/CMakeFiles/mylib.dir

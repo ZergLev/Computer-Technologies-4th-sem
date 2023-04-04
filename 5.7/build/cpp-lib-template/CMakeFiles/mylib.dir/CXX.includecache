@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../cpp-lib-template/include/mylib/export.h
+mylib/export_shared.h
+-
+mylib/export_static.h
+-
+
+../cpp-lib-template/include/mylib/mylib.h
+mylib/export.h
+-
+
+/home/sergey/Computer-Technology-4th-sem/5.7/cpp-lib-template/src/mylib.cpp
+mylib/mylib.h
+-
+
+cpp-lib-template/include/mylib/export_static.h
+
