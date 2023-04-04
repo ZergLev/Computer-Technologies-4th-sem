@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+//
 int main(){
   double a = 0, b = 0, c = 0;
   std::cout << "Input coefficients a, b, c for ax^2 + bx + c=0 equation.\n";
